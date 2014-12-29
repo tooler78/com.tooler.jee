@@ -1,0 +1,6 @@
+# eclipse files
+.settings
+.project
+
+# build files
+target
